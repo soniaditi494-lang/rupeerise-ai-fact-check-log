@@ -1,0 +1,71 @@
+﻿# Step 2: The Same Brief from Two AI Tools
+
+**Project:** RupeeRise AI Fact-Check Log  
+**Course:** Prompt Engineering, AI & Machine Learning | BBA (FinTech), Chitkara Business School  
+**Tools:** Claude (Anthropic); ChatGPT and Perplexity: *[to be completed by the author, see notes]*  
+
+## Prompt (identical for both tools)
+
+```text
+Write a one-page investor brief (about 250 words) on India's digital lending and UPI market for RupeeRise, a fictional digital lending app in Bengaluru.
+
+Include:
+- at least 5 specific numbers (market size, growth rates, UPI transaction volumes, number of users)
+- 2 RBI rules that apply to digital lenders, with the circular name or number
+- 1 quotation from a named industry leader
+- a source for every number
+
+Write in a confident, professional tone for investors.
+```
+
+---
+
+## Draft 1: Claude
+
+**Tool:** Claude (Anthropic) · **Date:** 25 November 2026 · **Web search:** not used (written from the model's own knowledge)
+
+**India's Digital Lending and UPI Market: Investor Brief for RupeeRise**
+
+India is the world's largest real-time payments market, and digital lending is its fastest-growing credit channel. UPI processed 20.0 billion transactions worth ₹24.9 lakh crore in August 2025 (Source: NPCI), roughly 34% more than a year earlier. UPI now has over 350 million active users and more than 50 million merchants (Source: NPCI). India's digital lending market is projected to reach $1.3 trillion by 2030, growing at about 22% a year (Source: BCG–Google report). Digital lending already accounts for around 60% of all new retail loans by value (Source: RBI Financial Stability Report).
+
+The regulatory framework is clear and borrower-focused. First, the RBI Guidelines on Digital Lending (circular RBI/2022-23/111, dated 2 September 2022) require loans to be disbursed directly into the borrower's bank account, with no pass-through by third parties. Second, the RBI (Digital Lending) Directions, 2025 (issued 8 May 2025) require a Key Fact Statement before loan execution and a cooling-off period of at least three days during which borrowers can exit a loan without penalty (Source: RBI).
+
+[Quotation omitted: I cannot supply a real, verifiable quotation from a named industry leader, and I will not invent one.]
+
+For RupeeRise, this creates a clear opportunity. As a compliance-first lender serving young salaried workers in Bengaluru, RupeeRise can win trust in a market where regulation rewards transparent, direct-to-borrower lending. We believe the combination of UPI-scale distribution and RBI-aligned practices positions the company for durable growth.
+
+*Word count: about 245 words.*
+
+---
+
+## Draft 2: ChatGPT
+
+**Tool:** ChatGPT · **Date:** *[25 November 2026]*
+
+INVESTOR BRIEF
+RupeeRise – India's Digital Lending & UPI Opportunity
+Location: Bengaluru, India
+Industry: Financial Technology (FinTech)
+Market Overview
+India's digital finance ecosystem presents a significant investment opportunity. Digital lending sanctions have increased from ₹0.15 trillion to ₹2.2 trillion over the past five years, reflecting rapid adoption of technology-driven credit services (Source: Redseer, 2026). Furthermore, mass-market digital lending is projected to reach ₹4.1 trillion by FY2030, growing at a 48% CAGR (Source: 1Lattice Report, 2026).
+UPI is strengthening this opportunity. According to NPCI data, India recorded 24,161.69 crore UPI transactions worth ₹314 lakh crore in FY2025–26, representing 30% year-on-year volume growth. UPI had also onboarded 55.49 crore users by June 2026 (Source: Government of India, PIB, July 2026).
+Regulatory Environment
+RupeeRise will operate within RBI's regulatory framework:
+1. RBI Digital Lending Directions, 2025 (RBI/2025-26/36): Requires regulated lenders to assess borrower creditworthiness and provide transparent loan disclosures.
+2. RBI Key Facts Statement Circular (DOR.STR.REC.13/13.03.00/2024-25, April 15, 2024): Requires lenders to disclose key loan information, including the Annual Percentage Rate (APR), to borrowers.
+Industry Perspective
+Dilip Asbe, MD & CEO of NPCI, stated:
+"Digital payments are now integral to life—I don't think we're going back to cash."
+Investment Outlook
+RupeeRise aims to leverage India's expanding digital payment infrastructure, responsible AI-based credit assessment and seamless loan processing. By prioritising transparency, customer trust and responsible lending, the platform can address underserved credit demand and build a scalable fintech business.
+Investment Proposition: A technology-driven lending opportunity supported by India's rapidly expanding digital financial infrastructure.
+
+Sources & References
+1. Redseer – India Digital Lending Report 2026: https://redseer.com/reports/india-digital-lending-market-beyond-the-first-loan/
+2. NPCI – UPI Statistics: https://www.npci.org.in/product/upi/product-statistics
+3. Government of India – PIB, UPI statistics and user adoption, July 2026: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2286608
+4. RBI – Digital Lending Directions, 2025: https://www.rbi.org.in/scripts/bs_viewcontent.aspx?Id=4632
+5. RBI – Key Facts Statement Circular, April 15, 2024: https://www.rbi.org.in/
+6. India Digital Summit 2025 – Dilip Asbe's statement: https://www.indiadigitalsummit.in/wp-content/uploads/2025/02/Press-Release-Day2-Dilip-Asbe.pdf
+Note: RupeeRise is a fictional business created for academic purposes. Market projections are estimates, not guaranteed outcomes.
+
